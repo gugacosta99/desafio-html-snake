@@ -1,0 +1,12 @@
+body {
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(0, 150, 0);
+}
+
+h1 {
+    margin-bottom: 5px;
+}
